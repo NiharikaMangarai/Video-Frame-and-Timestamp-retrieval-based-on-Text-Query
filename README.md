@@ -103,11 +103,12 @@ In our project, we implemented various performance metrics to assess the efficie
 
 These metrics provide valuable insights into the efficiency, scalability, and resource requirements of our video frame retrieval system.
 
-###Example 
-####1
+### Example 
+#### 1
+
 ![image](https://github.com/NiharikaMangarai/Video-Frame-and-Timestamp-retrieval-based-on-Text-Query/assets/75827294/01650ef0-2670-46d5-880c-935da6cc9804)
 
-####2
+#### 2
 ![image](https://github.com/NiharikaMangarai/Video-Frame-and-Timestamp-retrieval-based-on-Text-Query/assets/75827294/c908438f-aec5-449c-96ae-5ef52e9287b1)
 
 
